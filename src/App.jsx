@@ -6,7 +6,7 @@ import GetInTouch from './components/GetInTouch'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Projects from './components/Projects'
-import Technologies from './components/technologies'
+import Technologies from './components/Technologies'
 
 function App() {
   return (
